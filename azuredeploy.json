@@ -4,7 +4,7 @@
   "parameters": {
     "_artifactsLocation": {
       "type": "string",
-      "defaultValue": "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-XSS-Attack-Prevention/",
+      "defaultValue": "https://raw.githubusercontent.com/DVILLAMIZARIT/101-XSS-Attack-Prevention/",
       "metadata": {
         "description": "this will be the location for artifacts"
       }
@@ -65,7 +65,7 @@
     },
     "emailToSendAlertsTo": {
       "type": "string",
-      "defaultValue": "dummy@contoso.com",
+      "defaultValue": "julianvillamizar@outlook.com",
       "metadata": {
         "description": "this user will get the alert emails"
       }
